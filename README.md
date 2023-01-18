@@ -2,9 +2,11 @@
 
 # Index :-
 ---
-Web Scraping 
-Data Cleaning and Feature Selection 
-Uses of this File :- 
+[Web Scraping](https://github.com/Agrawalyash1041/Web-Scraping-Smartphone-Data/blob/main/README.md#web-scraping--) 
+
+[Data Cleaning and Feature Selection](https://github.com/Agrawalyash1041/Web-Scraping-Smartphone-Data/blob/main/README.md#data-cleaning-and-feautre-selection--) 
+
+[Uses of this File](https://github.com/Agrawalyash1041/Web-Scraping-Smartphone-Data/blob/main/README.md#uses-of-this-file--)
 
 
 # Web Scraping :- 
